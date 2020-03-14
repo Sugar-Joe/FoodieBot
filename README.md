@@ -6,6 +6,8 @@ Rasa Bot using Rasa & Zpmato API
 
 # 截图
 ![Secreenshot](https://github.com/Sugar-Joe/FoodieBot/blob/master/1.png)
+![Secreenshot](https://github.com/Sugar-Joe/FoodieBot/blob/master/%E5%BA%8F%E5%88%97%2001_4.gif)
+![Secreenshot](https://github.com/Sugar-Joe/FoodieBot/blob/master/%E5%BA%8F%E5%88%97%2001_6.gif)
 
 # 功能
 根据您选择的菜系，如：中国菜，泰国菜，结合您提供的定位来向你推荐餐厅
