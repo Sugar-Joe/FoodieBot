@@ -3,7 +3,7 @@
 import requests
 import json
 
-headers = {'user-key': 'b65be2ecbbcfe1c297007063052f34b9',
+headers = {'user-key': 'your API',
            'Accept': 'application/json'}
 
 def getLocationDetailsbyName(location_name):
