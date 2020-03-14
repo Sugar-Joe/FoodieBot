@@ -13,7 +13,7 @@ Rasa Bot using Rasa & Zpmato API
 # 参考
 - [Restaurant-Search-Bot](https://github.com/JiteshGaikwad/Restaurant-Search-Bot)
 - 前端UI
-- [Wedget](https://github.com/JiteshGaikwad/Chatbot-Widget)
+- [Wedget](https://github.com/JiteshGaikwad/Chatbot-Widget)——这个UI很强，很nb
 - [rasa-webchat](https://github.com/botfront/rasa-webchat)
 - [Rasa Webchat Integration 🤖](https://www.youtube.com/watch?v=J1n3Y8SVxVM&t=228s)
 - 由于rasa中文训练要花费较长时间，所以先用英文版，之后会抽时间去重做中文版
