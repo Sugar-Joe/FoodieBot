@@ -2,6 +2,7 @@
 Rasa Bot using Rasa & Zpmato API
 
 # [Demo_Video](https://youtu.be/ZSREaVgo3Y0)
+- 记得要科学上网
 
 
 # 截图
